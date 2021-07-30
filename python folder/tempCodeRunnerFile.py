@@ -1,0 +1,1 @@
+Image.open(r'/Images/'+str(newname)+'/'+str(newname)+'.jpg') 
